@@ -1,5 +1,6 @@
 ---
 name: anniversary-site
+license: MIT
 description: 用现成模板做一个可交互的情侣纪念日 / 周年礼物网页（双击 index.html 就能打开，不用联网、不用服务器）：封面满天星和相机、照片胶卷、3D 大富翁走过两人的大事、可以撤掉不爱吃的菜的小餐桌、一只手变两只手的演唱会门票、2P 中途加入的横版跳跃小游戏、换唱片切歌的唱片机、像素和灯光拼成合照的结尾。只要用户想给对象 / 伴侣 / 朋友做纪念日网页、周年礼物网站、表白或生日的互动小网站、"把我们的照片做成一个能点能玩的网页"，或者提到想复刻这类礼物网站，就使用这个 skill，即使对方没有说"纪念日"三个字。Use for anniversary / couple / love-story interactive gift websites built from photos.
 ---
 

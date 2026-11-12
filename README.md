@@ -22,7 +22,7 @@ Skill 名（`name` 字段）：`anniversary-site`。中文名字「周年纪念�
 ## 安装
 
 ```bash
-gh skill install YUYU20061107/周年纪念日-repo anniversary-site
+gh skill install YUYU20061107/anniversary-site anniversary-site
 ```
 
 或者把 `anniversary-site/` 整个目录复制到 `~/.dsh/skills/`（或 `~/.claude/skills/`）。
@@ -39,4 +39,4 @@ anniversary-site/
 
 ## 许可
 
-模板代码供个人制作礼物使用。字体（龙藏体 / 马善政体）随各自 `LICENSE.txt` 分发，遵循 SIL Open Font License。
+模板代码 MIT（见 [LICENSE](LICENSE)）。字体（龙藏体 / 马善政体）随各自 `LICENSE.txt` 分发，遵循 SIL Open Font License。
